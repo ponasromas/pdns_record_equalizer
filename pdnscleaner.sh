@@ -30,9 +30,6 @@ do
 		arr+=("${x}")
 	fi
 done
-
-echo ${arr[@]}
-
 }
 
 delete_zone () {
